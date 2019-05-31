@@ -1,0 +1,34 @@
+body{
+    /* padding: 30px;
+    margin: 30px; */
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: pink;
+}
+
+.img3{
+    width: 100px;
+    height: 50px;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffff;
+}
+
+.img-grid{
+    display: inline-block;
+}
+
+.d-block {
+    min-width: 50%
+}
